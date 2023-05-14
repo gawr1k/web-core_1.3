@@ -1,17 +1,18 @@
 @font-face {
         font-family: "TTLakes";
-        src:url("/font/TTLakes-Bold.ttf");
+        src:url("./../font/TTLakes-Bold.ttf");
 }
 
 @font-face {
         font-family: "TTLakes-button";
-        src:url("/font/TTLakes-Regular.ttf");
+        src:url("./../font/TTLakes-Regular.ttf");
 }
 
 @font-face {
         font-family: "TTLakes-next";
-        src:url("/font/TTLakes-Medium.ttf");
+        src:url("./../font/TTLakes-Medium.ttf");
 }
+
 
 
 
